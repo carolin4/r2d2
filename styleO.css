@@ -5,3 +5,18 @@ img {
     margin-left: auto;
     margin-right: auto;
   }
+
+  body {
+    text-align-last: center;
+    background: #000;
+    margin: 8px 95px 50px 95px;
+}
+.card-body{
+  background-color: #EAE8E8;
+}
+.media-body {
+  color: rgba(221, 208, 208, 0.815);
+}
+.mt-0 {
+  color: rgb(214, 186, 62)
+}
