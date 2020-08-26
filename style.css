@@ -9,5 +9,6 @@ img {
 
 body {
     text-align-last: center;
-    background: darkblue;
+    background: #000;
+    margin: 8px 60px 50px 60px;
 }
