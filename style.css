@@ -15,3 +15,6 @@ body {
 .card-body{
   background-color: #EAE8E8;
 }
+.media-body {
+  text-emphasis-color: white;
+}
