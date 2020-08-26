@@ -12,3 +12,6 @@ body {
     background: #000;
     margin: 8px 95px 50px 95px;
 }
+.card-body{
+  background-color: #EAE8E8;
+}
