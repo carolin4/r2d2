@@ -27,4 +27,7 @@ body {
 .btn-group{
   width: 600px;
 }
-
+.obr {
+    width: 500px;
+    height: 370px;
+  }
